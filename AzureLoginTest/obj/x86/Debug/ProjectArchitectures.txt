@@ -1,0 +1,1 @@
+C:\_GIT\AzureLoginTests\AzureLoginTest\AzureLoginTest.csproj;x86
